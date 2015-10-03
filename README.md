@@ -1,6 +1,6 @@
 # Aula-Git
 
-### Criado repositorio no github com a opção de inicializar o repositorio com o arquivo Readme
+Criado repositorio no github com a opção de inicializar o repositorio com o arquivo README.md
 
 Após ter criado arquivo info.php, o mesmo foi adicionado ao git com o comando:
 ### git add info.php
